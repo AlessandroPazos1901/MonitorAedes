@@ -329,7 +329,7 @@ function App() {
           <h1 className="title">
             🦟 Monitor de Aedes Aegypti 🦟
           </h1>
-          <p className="subtitle">Sistema de monitoreo inteligente - Huánuco, Perú</p>
+          <p className="subtitle">Sistema de monitoreo inteligente</p>
           
           {/* Indicador de conexión en tiempo real */}
           <div className="connection-status">
@@ -585,7 +585,7 @@ function App() {
           <div className="footer-content">
             <div className="footer-main">
               <p className="footer-title">🦟 Sistema de Monitoreo de Aedes Aegypti</p>
-              <p className="footer-location">Huánuco, Perú</p>
+              <p className="footer-location">Perú</p>
             </div>
             <div className="footer-copyright">
               <p className="footer-university">
